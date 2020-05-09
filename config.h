@@ -1,5 +1,5 @@
 /* user and group to drop privileges to */
-static const char *user  = "xel";
+static const char *user  = "paul";
 static const char *group = "wheel";
 
 static const char *colorname[NUMCOLS] = {
@@ -19,4 +19,4 @@ static const char * message =
 static const char * text_color = "#ffffff";
 
 /* text size (must be a valid size) */
-static const char * font_name = "6x10";
+static const char * font_name = "fixed";
